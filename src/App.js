@@ -12,7 +12,7 @@ function App() {
     <div className="container">
   <BrowserRouter>
  
-  <Route exact path="/">
+  <Route exact path="/new_react_portfolio">
           <Home/>
         </Route>
 
